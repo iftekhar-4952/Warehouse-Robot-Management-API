@@ -29,7 +29,7 @@
 
 ## Base URL
 
-https://api.robofleet.com/v1
+https://api.example.com/v1
 
 ## Version
 
